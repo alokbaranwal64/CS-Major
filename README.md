@@ -1,5 +1,5 @@
 # CS-Major
-A structured repository documenting my journey as a CS Major through programming, academia, systems thinking, and intelligent technologies.
+A structured repository documenting as a CS Major through programming, academia, systems thinking, and intelligent technologies.
 
 # CS Major Journey
 
